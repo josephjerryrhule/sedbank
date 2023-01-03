@@ -1,7 +1,7 @@
 # sedbank
 
 # To Install NPM Packages
-# Use npm install
+Use npm install
 
 # To Run
-# Use npm run dev
+Use npm run dev
